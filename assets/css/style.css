@@ -56,7 +56,7 @@ a:active {
 
 .item {
     margin: 3px 8px;
-/*     overflow:hidden; */
+    overflow:scroll;
 }
 
 /* Social icons */
@@ -155,7 +155,7 @@ a:active {
 #biography {
     font-size: 18px;
     max-width: 275px;
-/*     overflow:hidden; */
+    overflow:scroll;
     text-shadow: 1px 1px 0 #000000;
 }
 
