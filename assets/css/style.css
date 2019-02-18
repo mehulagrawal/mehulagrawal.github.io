@@ -51,12 +51,10 @@ a:active {
 .row {
     width: auto;
     margin: 0.1em;
-/*     overflow:hidden; */
 }
 
 .item {
     margin: 3px 8px;
-    overflow:scroll;
 }
 
 /* Social icons */
@@ -155,7 +153,6 @@ a:active {
 #biography {
     font-size: 18px;
     max-width: 275px;
-    overflow:scroll;
     text-shadow: 1px 1px 0 #000000;
 }
 
@@ -179,7 +176,6 @@ a:active {
 
 @media only screen and (max-width: 600px) {
     .container {
-/*         overflow:hidden; */
         flex-flow: column-reverse;
     }
 
