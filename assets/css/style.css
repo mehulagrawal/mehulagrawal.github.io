@@ -155,6 +155,11 @@ a:active {
     max-width: 275px;
     text-shadow: 1px 1px 0 #000000;
 }
+#projects {
+    font-size: 18px;
+    max-width: 275px;
+    text-shadow: 1px 1px 0 #000000;
+}
 
 /* Effects */
 
@@ -189,6 +194,9 @@ a:active {
     }
 
     #biography {
+        text-align: center;
+    }
+    #projects {
         text-align: left;
     }
 }
