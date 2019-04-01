@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Why you should build your Impossible List</title>
+
+    <meta name="description" content="An impossible list is an ever-evolving bucket list which contains all your goals in life. In this post tell you why you need it.">
+    <meta name="author" content="Mehul Agrawal">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+  </head>
+  <body>
+  	<div class="border">
+	    <div class="container-fluid">
+	    	<div class="row">
+	    		<div class="col-md-2">
+	    			<div class="top-left">
+	    				<a class="top-left-css" href="https://www.mehulagrawal.me/">home </a><a class="top-left-css" href="https://www.mehulagrawal.me/blog/index.html"> blog</a>
+	    			</div>
+	    		</div>
+	    		<div class="col-md-8">
+	    		</div>
+	    		<div class="col-md-2">
+	    			<!-- <div class="top-right"><a class="top-right-css" href="/">About</a></div> -->
+	    		</div>
+	    	</div>
+			<div class="row">
+				<div class="col-md-4">
+				</div>
+				<div class="col-md-4">
+					<br>
+
+					<h2>
+						Why you should build your Impossible List
+					</h2>
+					<p>
+						The idea of an impossible list came to me from Thomas Frank who in turn got the idea from Joel Runyon. An impossible list, essentially, is a kind of bucket list that keeps evolving as you make keep achieving and moving forward in life. It's not just any to-do list, its your dreams, aspirations, and goals all combined into one. The impossible list, if done correctly, should be everything you want out of life - personal, professional and spiritual.<br><br>
+
+To get an idea of how to build your own impossible list, go through <a href="https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/">Thomas Frank's website</a>. In this blog post, I'll tell you why it was the best thing that ever happened to me.<br><br>
+
+I made my impossible list in 2018 and nothing has ever changed my life as much as this simple thing has. Everyday I wake up and I remember what I wrote in that list (I practically have it memorised by now) and I know very specifically what I want to pursue in life. I am convinced that everything I wrote in the list matters to me at the deepest level and whenever I pick something to do (Read a book, or actually creating and writing this blog), I never have to ask myself whether it would be a fulfilling task. What's important is that feeling of certainty. It is the greatest feeling ever. Not only does it give you a strong purpose in life, but also liberates you in a sense. <br><br>
+
+Creating and maintaining a blog was an entry in my impossible list. It is not that I maintain this blog out of some sense of duty that it is a to-do point in my bucket list. There are two points to be understood:<br>
+1. The beauty of the impossible list is that I wrote down what I know would be fulfilling to me. It is a list written BY me and purely FOR me. 
+2. I am aware that maintaining this blog is a never-ending activity. And it's still a to-do activity. It's not something that I will check off one day and that's where the impossible list differs from your average bucket list. <br><br>
+
+I am convinced that everyone should make their impossible list. Not only would it be helpful in the ways I meantioned, but it would also force you to think long and hard about what you want out of life. It would force you to write down concretely, what matters to you the most. It can be, in a sense, scary to think about it. You might fear that if my impossible list isn't "good" enough, I might not have a meaningful purpose or direction in life. If you have this fear, then you are the person who needs the impossible list the most. Trust me when I say this, a couple of hours spent thinking about your whole life ahead would be the best thing you've ever done.
+<br><br>
+<i>Posted 2nd April, 2019.</i><br><hr>I am Mehul Agrawal, an Indian computer science student. Check me out on <a href="https://www.linkedin.com/in/mehul-agrawal/">LinkedIn</a>.  
+					</p>
+				</div>
+				<div class="col-md-4">
+				</div>
+			</div>
+		</div>
+	</div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
