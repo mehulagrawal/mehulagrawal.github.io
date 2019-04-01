@@ -1,0 +1,32 @@
+.border {
+  position: fixed;
+  top: 0;
+  left: 0;
+  border: 12px solid #c5484d;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.top-left-css {
+    color: #596275;
+    float: left;
+    margin-top: 1.0875rem;
+    margin-left: 0.5875rem;
+    font-size: 1.31951rem;
+    line-height: 2.175rem;
+}
+@media only screen and (max-width: 600px) {
+  .border {
+    border-top: : 5px solid #c5484d;
+    border-right: 0px solid #c5484d;
+    border-left: 0px solid #c5484d;
+    border-bottom: 0px solid #c5484d;
+  }
+  .top-left-css {
+    margin-left:-1px;
+    font-size: 1.8rem;
+  }
+}
+
