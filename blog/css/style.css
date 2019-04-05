@@ -40,10 +40,11 @@
 }
 @media only screen and (max-width: 600px) {
   .border {
-    border-top: : 5px solid #c5484d;
+      border: 3px solid #c5484d;
+/*     border-top: : 5px solid #c5484d;
     border-right: 0px solid #c5484d;
     border-left: 0px solid #c5484d;
-    border-bottom: 0px solid #c5484d;
+    border-bottom: 0px solid #c5484d; */
   }
   .top-left-css {
     margin-left:-1px;
