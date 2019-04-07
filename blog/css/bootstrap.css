@@ -394,6 +394,8 @@ dd {
 }
 
 blockquote {
+  padding: 0.5rem 1rem;
+  border-left: 0.25rem solid #eceeef;
   margin: 0 0 1rem;
 }
 
